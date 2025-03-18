@@ -10,33 +10,33 @@ Automated Statistics Extraction: Extract regression statistics including ANOVA f
 Regression Equation: Provide the regression equation for the models.
 Visualization: Generate plots to visualize the response as a function of input parameters.
 Flexible Input: Reads data from an Excel file with specified columns.
-Files
+
 
 ## 1. Box-Behnken statistics 4_3.py
 
 This script is designed for a 4^3 Box-Behnken design. It performs the following tasks:
 
-Reads data from an Excel file with columns A, B, C, D, and Response.
-Extracts regression statistics including ANOVA for linear, square, and two-way interaction models.
-Provides the regression equation for each model.
-
+- Reads data from an Excel file with columns A, B, C, D, and Response.
+- Extracts regression statistics including ANOVA for linear, square, and two-way interaction models.
+- Provides the regression equation for each model.
+ 
 ## 2. Box-Behnken statistics 3_3.py
 
 This script is designed for a 3^3 Box-Behnken design. It performs the same tasks as Box-Behnken statistics 4_3.py but for a 3^3 design:
 
-Reads data from an Excel file with columns A, B, C, and Response.
-Extracts regression statistics including ANOVA for linear, square, and two-way interaction models.
-Provides the regression equation for each model.
-
+- Reads data from an Excel file with columns A, B, C, and Response.
+- Extracts regression statistics including ANOVA for linear, square, and two-way interaction models.
+- Provides the regression equation for each model.
+ 
 ## 3. Example plot 4_3.py
 
 This script provides an example of how to generate a plot for a 4^3 Box-Behnken design. It visualizes the response as a function of parameters A and B, with C and D fixed. 
 
 The plot includes:
 
-A filled contour plot to show the response percentage.
-Contour lines for better visibility.
-A colorbar to indicate the response percentage.
+- A filled contour plot to show the response percentage.
+- Contour lines for better visibility.
+- A colorbar to indicate the response percentage.
 
 
 
