@@ -43,4 +43,5 @@ The plot includes:
 ## Prerequisites
 
 Python 3.12.6
+
 Required Libraries: pandas, numpy, statsmodels, matplotlib
